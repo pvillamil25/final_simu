@@ -1,0 +1,1 @@
+Una vez instalado el programa, ir a C:\Archivos de programa\isee systems\STELLA 9.0.2 Trial y reemplazar el archivo STELLA.RSR por el que se encuentra en esta carpeta.
